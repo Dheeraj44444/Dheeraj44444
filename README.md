@@ -1,7 +1,6 @@
 # Dheeraj-N
 
-#💫 About Me:
-
+## 💫About Me:
 👋 Hi there! I'm a student at Global Academy with a passion for technology and innovation. I specialize in creating projects in:<br><br>Machine Learning: Leveraging algorithms and data to solve complex problems and build intelligent systems.<br>Computer Vision: Developing applications that understand and interpret visual information from the world.<br>Deep Learning: Building and training neural networks to enable advanced AI capabilities.<br>Web Development: Crafting dynamic and responsive web applications to provide seamless user experiences.<br><br>I'm constantly exploring new technologies and pushing the boundaries of what’s possible with code. Check out my repositories to see my latest projects and contributions!
 
 
